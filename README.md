@@ -17,13 +17,30 @@ Here are some ideas to get you started:
 This is the beginning of everything, maybe we said hi to each other and exchanged information, you attended a session I gave, or maybe you were given one of my business or secret code cards that led you here. No matter the journey, you have arrived! Here you will find all the information about me and links to connect through various forms of media. I'm looking forward to connecting with you and feel free to reach out to me with any questions you may have. 
 
 ## Current Role
-I'm the Chief Security Architect for TransUnion. My focus is enabling a global security posture, leveraging DevSecOps to transform our services to build Information for Good and deliver best in class and secure credit decisioning and identity services to our global customers.
+Currently working on personal endeavors and keeping an eye out for interesting new challenges to solve.
 
-## Previous Role
-I'm was the Chief Transformation Evangelist For Equifax. My focus was around spreading the good word of how Equifax is helping people live thier financial best while driving fanatical customer and consumer delight and engaging the community to create market feedback loops enabling them to deliver the next generation of services as leaders of our industry. <br>
+## Previous Roles
+- I was the Vice President of Cybersecurity for NielsenIQ. My focus was enabling a global security posture, leveraging DevSecOps to transform our services and deliver best in class and secure data and analytics for fast moving consumer goods to our global customers.
+- I was the Chief Security Architect for TransUnion. My focus was enabling a global security posture, leveraging DevSecOps to transform our services to build Information for Good and deliver best in class and secure credit decisioning and identity services to our global customers.
+- I was the Chief Transformation Evangelist For Equifax. My focus was around spreading the good word of how Equifax is helping people live thier financial best while driving fanatical customer and consumer delight and engaging the community to create market feedback loops enabling them to deliver the next generation of services as leaders of our industry. <br>
 
 ## Bio
-Sean Davis is the Chief Security Architect for Transunion. As a resident DevSecOps Advocate, he drives change in information security to enable secure, scalable products in the cloud. Prior to Transunion, Sean was the Chief Transformation Evangelist for Equifax. He was focused on creating opportunities between the market, customers, consumers, technology, and security teams to deliver exceptional experiences and exponential talent and market growth. He currently sits on several technology advisor boards and is a flagship instructor and ambassador for DevOps Institute and brand ambassador for YouExec. Sean enjoys coaching technical teams and individuals so they can exceed their own expectations and build secure, durable, and scalable business cultures and products. His primary areas of expertise are around business transformation, technical leadership, DevOps, Agile, and performance coaching.
+Sean Davis is a seasoned global cybersecurity leader with a distinguished career spanning over two and a half decades. In his roles as Chief Security Architect and VP, Cybersecurity at various financial and data firms, Sean has led the charge in fortifying company's security postures, leading technology transformational efforts, strengthening customer confidence in cloud and product security, and leading global remote teams in safeguarding the organization's information, technology, and people. 
+
+Sean's leadership in the security industry extends beyond just his executive roles. He is an invaluable member of several advisory boards and networks, solidifying his reputation as a sought-after authority in the industry for presentations at major conferences such as RSA and DevOpsDays. Additionally, Sean lends his expertise to several brands and communities as an ambassador to build a stronger cybersecurity landscape paving the way for future security practitioners.
+
+Sean's commitment to education is evident through his role as an accredited instructor for PeopleCert (Formerly DevOps Institute), ITSM Academy, and Ahead Consulting and coauthored the world's first DevSecOps certification. Sean is also a published author with his book, The Purple Book of Software Security, coauthored with some of the best minds in the security industry. 
+
+Sean's career includes tenures at several large financial services firms such as his role as Chief Transformation Evangelist for Equifax and Chief Security Architect For Transunion. While at Equifax, he help build the next generation of security to produce consumer data. His contributions involved planning and implementation of a $1.5BN security transformation, which included a $8M dedicated security fusion center, a global product compliance platform, and over $50M investment in Google cloud services. While at Transunion, he led the Cybersecurity organization, overseeing security architecture, GRC, and engineering through a multi-million dollar transformation and consolidation of over 150 products and 11 M&A's to the cloud.
+
+Companies Depend On Me For:
+📌 DevOps, Agile, Cultural, and Business Transformation Leadership
+📌 Scaled Implementation of DevSecOps Development and Engineering Practices
+📌 Subject Matter Expert Contributions To National Cybersecurity Industry Venues
+📌 Cybersecurity Regulatory Compliance Assessment and Remediation
+📌 Secure Product Architectural Design and Implementation
+📌 Building and Leading High Performing Development and Engineering Teams
+📌 Breach Identification, Recovery, and Remediation
 
 ## Resume
 [One Pager](https://github.com/imseandavis/HelloWorld/blob/master/Your_New_Employee.pdf) <br>
@@ -40,7 +57,7 @@ Sean Davis is the Chief Security Architect for Transunion. As a resident DevSecO
 ## My Websites
 [Blog](http://imseandavis.com/blog) <br>
 [Personal Website](http://imseandavis.com) <br>
-[Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
+[Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) - Migrating to New Host
 
 ## My Most Recent Certifications
 [DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
@@ -51,7 +68,7 @@ Sean Davis is the Chief Security Architect for Transunion. As a resident DevSecO
 [ITIL v4 Foundations - License GR671010952SD](https://www.itsmacademy.com/itil4fnd/) <br>
 [Certified SAFe 5 DevOps Practitioner - ID: 68921157-9918](https://www.scaledagile.com/certification/courses/safe-devops/)
 <br>
-- Bonus: Use the code SEANDAVIS on ITSM Academy / DevOps Institute On Any DevOps Course For 10% off
+- Bonus: Use the code SEANDAVIS on ITSM Academy / DevOps Institute / PeopleCert On Any DevOps Course For 10% off
 
 ## Community Involvement
 [Adapt Transformation Founding Advisory Board Member](http://www.adapttransformation.com/adapt-model-community-board-of-advisors/) <br>
