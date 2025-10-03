@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 This is the beginning of everything, maybe we said hi to each other and exchanged information, you attended a session I gave, or maybe you were given one of my business or secret code cards that led you here. No matter the journey, you have arrived! Here you will find all the information about me and links to connect through various forms of media. I'm looking forward to connecting with you and feel free to reach out to me with any questions you may have. 
 
 ## Current Role
-Currently working on personal endeavors and keeping an eye out for interesting new challenges to solve.
+Currently running a private cybersecurity consultancy and advisory firm. Please feel free to reach out if you have a need.
 
 ## Previous Roles
 - I was the Vice President of Cybersecurity for NielsenIQ. My focus was enabling a global security posture, leveraging DevSecOps to transform our services and deliver best in class and secure data and analytics for fast moving consumer goods to our global customers.
