@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 This is the beginning of everything, maybe we said hi to each other and exchanged information, you attended a session I gave, or maybe you were given one of my business or secret code cards that led you here. No matter the journey, you have arrived! Here you will find all the information about me and links to connect through various forms of media. I'm looking forward to connecting with you and feel free to reach out to me with any questions you may have. 
 
 ## Check Out My Stats
-![GitHub Stats](https://github-readme-stats-kohl-phi-46.vercel.app/api?username=imseandavis&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-kohl-phi-46.vercel.app/api?username=imseandavis&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Top Langs](https://github-readme-stats-kohl-phi-46.vercel.app/api/top-langs/?username=imseandavis&size_weight=0.5&count_weight=0.5&langs_count=20&card_width=500&layout=donut-vertical)
+![Top Langs](https://github-readme-stats-kohl-phi-46.vercel.app/api/top-langs/?username=imseandavis&size_weight=0.5&count_weight=0.5&langs_count=20&card_width=300&layout=donut-vertical)
 
 ## Current Role
 Currently running a private cybersecurity consultancy and advisory firm. Please feel free to reach out if you have a need.
