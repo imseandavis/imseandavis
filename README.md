@@ -19,7 +19,7 @@ This is the beginning of everything, maybe we said hi to each other and exchange
 ## Check Out My Stats
 ![GitHub Stats](https://github-readme-stats-kohl-phi-46.vercel.app/api?username=imseandavis&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats-kohl-phi-46.vercel.app/api/top-langs/?username=imseandavis&size_weight=0.5&count_weight=0.5&langs_count=20&card_width=600)
+![Top Langs](https://github-readme-stats-kohl-phi-46.vercel.app/api/top-langs/?username=imseandavis&size_weight=0.5&count_weight=0.5&langs_count=20&card_width=500&layout=donut-vertical)
 
 ## Current Role
 Currently running a private cybersecurity consultancy and advisory firm. Please feel free to reach out if you have a need.
