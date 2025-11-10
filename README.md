@@ -22,10 +22,6 @@ This is the beginning of everything, maybe we said hi to each other and exchange
 |---|---|
 | ![GitHub Stats](https://github-readme-stats-kohl-phi-46.vercel.app/api?username=imseandavis&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | ![Top Langs](https://github-readme-stats-kohl-phi-46.vercel.app/api/top-langs/?username=imseandavis&size_weight=0.5&count_weight=0.5&langs_count=20&card_width=300&layout=donut-vertical) |
 
-![GitHub Stats](https://github-readme-stats-kohl-phi-46.vercel.app/api?username=imseandavis&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Top Langs](https://github-readme-stats-kohl-phi-46.vercel.app/api/top-langs/?username=imseandavis&size_weight=0.5&count_weight=0.5&langs_count=20&card_width=300&layout=donut-vertical)
-
 ## Current Role
 Currently running a private cybersecurity consultancy and advisory firm. Please feel free to reach out if you have a need.
 
